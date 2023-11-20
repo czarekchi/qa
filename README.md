@@ -1,17 +1,20 @@
-# Porfolio
+# Portfolio
 
-## Technical skills
+## Technical Skills
 
-### Tools
+### Tools:
+- **Postman:** Testing API, creating tests for various endpoints, HTTP requests automation.
+- **JIRA:** Task tracking.
+- **Google Workspace:** Document creation, bug reporting.
+- **Chrome DevTools:** Console error checking, network tab observation for backend communication.
 
-### Languages + frameworks 
+### Languages + Frameworks:
 
-#### JavaScript/TypeScript + Cypress
+- **JavaScript/TypeScript + Cypress**
 
-#### JavaScript/TypeScript + Playwright
+## Soft Skills:
 
-#### Python + Selenium
-
-#### JavaScript/TypeScript + k6
-
-## Soft skills 
+- Communication
+- Analytical Thinking
+- Attention to Detail
+- Independence
