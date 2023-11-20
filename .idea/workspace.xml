@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a1a79f0-ef60-4dd1-abe3-aa40fa7ef9cb" name="Changes" comment="" />
+    <list default="true" id="7a1a79f0-ef60-4dd1-abe3-aa40fa7ef9cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cypress/cypress/e2e/user_interface/login.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/e2e/demoqa_com/elements.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/cypress/support/common_helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress/support/common_helper.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "cypress",
-    "last_opened_file_path": "/Users/czarek/Desktop/portfolio/qa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/czarek/Desktop/portfolio/qa/cypress/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;cypress&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/czarek/Desktop/portfolio/qa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/czarek/Desktop/portfolio/qa/cypress/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cypress/cypress/support" />
@@ -68,7 +75,8 @@
       <workItem from="1700247165091" duration="346000" />
       <workItem from="1700247609113" duration="928000" />
       <workItem from="1700248680288" duration="3001000" />
-      <workItem from="1700252339419" duration="1416000" />
+      <workItem from="1700252339419" duration="1610000" />
+      <workItem from="1700493428285" duration="4042000" />
     </task>
     <servers />
   </component>
