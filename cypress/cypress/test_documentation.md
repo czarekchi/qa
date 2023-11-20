@@ -1,3 +1,6 @@
+# Test documentation for user interface
+
+## login.ts
 | Test | Description |
 | --- | --- |
 | **check element on website** | Tests user login on the website and checks if it redirects to the correct page. |
@@ -25,6 +28,8 @@
 2. **login user with valid credentials with remember me checkbox**
     - User login with the "Remember me" option.
     - Check if the URL contains the expected fragment.
+
+## dashboard_elements.ts
 
 | Test | Description |
 | --- | --- |
