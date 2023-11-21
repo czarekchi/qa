@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a1a79f0-ef60-4dd1-abe3-aa40fa7ef9cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/cypress/e2e/user_interface/login.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/cypress/e2e/demoqa_com/elements.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress/fixtures/example.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/cypress/support/common_helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/cypress/support/common_helper.ts" afterDir="false" />
-    </list>
+    <list default="true" id="7a1a79f0-ef60-4dd1-abe3-aa40fa7ef9cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +69,7 @@
       <workItem from="1700247609113" duration="928000" />
       <workItem from="1700248680288" duration="3001000" />
       <workItem from="1700252339419" duration="1610000" />
-      <workItem from="1700493428285" duration="4042000" />
+      <workItem from="1700493428285" duration="4386000" />
     </task>
     <servers />
   </component>
