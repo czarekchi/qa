@@ -12,6 +12,8 @@
 
 - **JavaScript/TypeScript + Cypress**
 
+  Here is a documentation for some simply tests. [Click for documentation](https://github.com/czarekchi/qa/blob/main/cypress/cypress/test_documentation.md)
+
 ## Soft Skills:
 
 - Communication
